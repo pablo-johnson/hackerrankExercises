@@ -1,3 +1,5 @@
+package algorithms.implementation;
+
 import java.util.Scanner;
 
 /**
